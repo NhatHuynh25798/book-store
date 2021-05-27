@@ -1,0 +1,12 @@
+.footerLogo {
+  display: inline-block;
+  font-size: 32px;
+  font-style: normal;
+  font-family: Cinzel Decorative;
+  font-weight: bolder;
+}
+
+.specialHeading::first-letter {
+  color: #faab9f;
+  border: 1px solid #faab9f;
+}
